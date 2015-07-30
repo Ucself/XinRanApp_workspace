@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>596A6FF3-E7D5-433A-AB6E-5554A2DB4CF4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XinRanApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3e80ed5b-b2e2-453e-adcf-da655f79cc77++4736</key>
+		<string>http://192.168.1.21/usvn/svn/xinran-mall/trunk/ios/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XinRanApp 1.0/XinRanApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3e80ed5b-b2e2-453e-adcf-da655f79cc77++4736</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>3e80ed5b-b2e2-453e-adcf-da655f79cc77++4736</key>
+		<string>http://192.168.1.21/usvn/svn/xinran-mall</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.1.21/usvn/svn/xinran-mall/trunk/ios/trunk/XinRanApp%201.0/XinRanApp.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3e80ed5b-b2e2-453e-adcf-da655f79cc77++4736</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3e80ed5b-b2e2-453e-adcf-da655f79cc77++4736</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Xinran-mallIOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

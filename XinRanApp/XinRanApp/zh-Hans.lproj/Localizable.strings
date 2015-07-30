@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  XinRanApp
+
+  Created by tianbo on 14-12-10.
+  Copyright (c) 2014年 deshan.com. All rights reserved.
+*/
+
+string_ok = "确定";
+string_phonenumber = "手机号码:";

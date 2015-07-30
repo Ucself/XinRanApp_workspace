@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>56392AC1-743D-4126-A95C-1CAF0084CD30</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XinRanApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3e80ed5b-b2e2-453e-adcf-da655f79cc77++2146</key>
+		<string>http://192.168.1.21/usvn/svn/xinran-mall/trunk/ios/trunk/XinRanApp_workspace</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XinRanApp.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3e80ed5b-b2e2-453e-adcf-da655f79cc77++2146</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>3e80ed5b-b2e2-453e-adcf-da655f79cc77++2146</key>
+		<string>http://192.168.1.21/usvn/svn/xinran-mall</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.1.21/usvn/svn/xinran-mall/trunk/ios/trunk/XinRanApp_workspace/XinRanApp.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3e80ed5b-b2e2-453e-adcf-da655f79cc77++2146</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3e80ed5b-b2e2-453e-adcf-da655f79cc77++2146</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XinRanApp_workspace</string>
+		</dict>
+	</array>
+</dict>
+</plist>

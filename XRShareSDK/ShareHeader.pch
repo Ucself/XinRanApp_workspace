@@ -1,0 +1,18 @@
+//
+//  ShareHeader.h
+//  XRShareSDK
+//
+//  Created by tianbo on 15-3-25.
+//  Copyright (c) 2015年 tianbo. All rights reserved.
+//
+
+#ifndef XRShareSDK_ShareHeader_h
+#define XRShareSDK_ShareHeader_h
+
+//#import <XRCommon/Common.h>
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#endif
+
+#endif

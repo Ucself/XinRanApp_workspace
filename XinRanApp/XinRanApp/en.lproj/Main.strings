@@ -1,0 +1,399 @@
+
+/* Class = "IBUIViewController"; title = "productdetailinfo"; ObjectID = "0DB-CO-pwg"; */
+"0DB-CO-pwg.title" = "productdetailinfo";
+
+/* Class = "IBUIButton"; normalTitle = "确认订单"; ObjectID = "0kG-ah-BPM"; */
+"0kG-ah-BPM.normalTitle" = "确认订单";
+
+/* Class = "IBUINavigationItem"; title = "重置密码"; ObjectID = "1CN-5l-AsX"; */
+"1CN-5l-AsX.title" = "重置密码";
+
+/* Class = "IBUIButton"; normalTitle = "注销登录"; ObjectID = "1vM-vX-ZFG"; */
+"1vM-vX-ZFG.normalTitle" = "注销登录";
+
+/* Class = "IBUITextField"; placeholder = "请先发送密码"; ObjectID = "2Pr-LI-mhE"; */
+"2Pr-LI-mhE.placeholder" = "请先发送密码";
+
+/* Class = "IBUIButton"; normalTitle = "馨然之家服务协议"; ObjectID = "2rD-44-Nv9"; */
+"2rD-44-Nv9.normalTitle" = "馨然之家服务协议";
+
+/* Class = "IBUINavigationItem"; title = "普通注册"; ObjectID = "3Gs-we-FNq"; */
+"3Gs-we-FNq.title" = "普通注册";
+
+/* Class = "IBUILabel"; text = "商品信息"; ObjectID = "3K4-66-nag"; */
+"3K4-66-nag.text" = "商品信息";
+
+/* Class = "IBUINavigationItem"; title = "设置"; ObjectID = "3UW-Ab-Z01"; */
+"3UW-Ab-Z01.title" = "设置";
+
+/* Class = "IBUINavigationController"; title = "更多Navigation"; ObjectID = "3ih-3Y-B0y"; */
+"3ih-3Y-B0y.title" = "更多Navigation";
+
+/* Class = "IBUIButton"; normalTitle = "下一步"; ObjectID = "4Eo-TZ-Y3i"; */
+"4Eo-TZ-Y3i.normalTitle" = "下一步";
+
+/* Class = "IBUINavigationItem"; title = "我的礼品券"; ObjectID = "52Q-KA-W7L"; */
+"52Q-KA-W7L.title" = "我的礼品券";
+
+/* Class = "IBUINavigationItem"; title = "选择店铺"; ObjectID = "5om-bf-SeH"; */
+"5om-bf-SeH.title" = "选择店铺";
+
+/* Class = "IBUITextField"; placeholder = "请输入密码"; ObjectID = "6CC-wc-OIF"; */
+"6CC-wc-OIF.placeholder" = "请输入密码";
+
+/* Class = "IBUILabel"; text = "原价:"; ObjectID = "7nI-xV-at7"; */
+"7nI-xV-at7.text" = "原价:";
+
+/* Class = "IBUITextField"; placeholder = "请输入密码"; ObjectID = "8Dn-0T-CX6"; */
+"8Dn-0T-CX6.placeholder" = "请输入密码";
+
+/* Class = "IBUIButton"; normalTitle = "选择地址"; ObjectID = "8aE-78-7zb"; */
+"8aE-78-7zb.normalTitle" = "选择地址";
+
+/* Class = "IBUILabel"; text = "圣诞狂欢超省购，桑乐金理疗红外桑那房法汇聚械大法师枯载村顶替茜柑"; ObjectID = "9Ao-MN-Wbu"; */
+"9Ao-MN-Wbu.text" = "圣诞狂欢超省购，桑乐金理疗红外桑那房法汇聚械大法师枯载村顶替茜柑";
+
+/* Class = "IBUITabBarController"; title = "Main"; ObjectID = "ASO-NV-9WC"; */
+"ASO-NV-9WC.title" = "Main";
+
+/* Class = "IBUIButton"; normalTitle = "设置"; ObjectID = "Ak4-wa-d0b"; */
+"Ak4-wa-d0b.normalTitle" = "设置";
+
+/* Class = "IBUILabel"; text = "养生专家抢购活动参与资格，其他抢购活动参与资格"; ObjectID = "Aqf-zd-Hvu"; */
+"Aqf-zd-Hvu.text" = "养生专家抢购活动参与资格，其他抢购活动参与资格";
+
+/* Class = "IBUINavigationItem"; title = "登陆"; ObjectID = "AzW-z7-S8K"; */
+"AzW-z7-S8K.title" = "登陆";
+
+/* Class = "IBUITabBarItem"; title = "更多"; ObjectID = "B3R-6A-JVg"; */
+"B3R-6A-JVg.title" = "更多";
+
+/* Class = "IBUINavigationItem"; title = "我的馨然之家"; ObjectID = "BS1-dU-UxZ"; */
+"BS1-dU-UxZ.title" = "我的馨然之家";
+
+/* Class = "IBUITextField"; text = "   密       码："; ObjectID = "Bap-ZI-jSY"; */
+"Bap-ZI-jSY.text" = "   密       码：";
+
+/* Class = "IBUIButton"; normalTitle = "立即登录"; ObjectID = "CAz-aQ-iMo"; */
+"CAz-aQ-iMo.normalTitle" = "立即登录";
+
+/* Class = "IBUILabel"; text = "13120216317养生平民"; ObjectID = "CS2-bj-Cd7"; */
+"CS2-bj-Cd7.text" = "13120216317养生平民";
+
+/* Class = "IBUINavigationItem"; title = "更多"; ObjectID = "CfP-XO-9To"; */
+"CfP-XO-9To.title" = "更多";
+
+/* Class = "IBUIViewController"; title = "home"; ObjectID = "DML-2T-S6P"; */
+"DML-2T-S6P.title" = "home";
+
+/* Class = "IBUIButton"; normalTitle = "获取密码"; ObjectID = "DSb-na-eQf"; */
+"DSb-na-eQf.normalTitle" = "获取密码";
+
+/* Class = "IBUITextField"; text = "   电话号码："; ObjectID = "Dch-2j-yrg"; */
+"Dch-2j-yrg.text" = "   电话号码：";
+
+/* Class = "IBUILabel"; text = "应付金额:"; ObjectID = "Dk6-Rk-wze"; */
+"Dk6-Rk-wze.text" = "应付金额:";
+
+/* Class = "IBUILabel"; text = "欢迎来到馨然之家"; ObjectID = "EJi-oa-5Hh"; */
+"EJi-oa-5Hh.text" = "欢迎来到馨然之家";
+
+/* Class = "IBUIButton"; normalTitle = "养生专家升级规则"; ObjectID = "EMg-5N-GXY"; */
+"EMg-5N-GXY.normalTitle" = "养生专家升级规则";
+
+/* Class = "IBUILabel"; text = "【提示】"; ObjectID = "EQd-1b-rth"; */
+"EQd-1b-rth.text" = "【提示】";
+
+/* Class = "IBUIButton"; normalTitle = "最新"; ObjectID = "ETC-sg-FWd"; */
+"ETC-sg-FWd.normalTitle" = "最新";
+
+/* Class = "IBUITextField"; placeholder = "不少于六位（数字加字母组合）"; ObjectID = "EWj-OS-zhr"; */
+"EWj-OS-zhr.placeholder" = "不少于六位（数字加字母组合）";
+
+/* Class = "IBUIButton"; normalTitle = "普通注册"; ObjectID = "EcC-Zt-ttx"; */
+"EcC-Zt-ttx.normalTitle" = "普通注册";
+
+/* Class = "IBUINavigationItem"; title = "忘记密码"; ObjectID = "F3i-jG-bg0"; */
+"F3i-jG-bg0.title" = "忘记密码";
+
+/* Class = "IBUIButton"; normalTitle = "人气"; ObjectID = "G2C-Cc-EdV"; */
+"G2C-Cc-EdV.normalTitle" = "人气";
+
+/* Class = "IBUINavigationItem"; title = "首页"; ObjectID = "GJn-HR-3if"; */
+"GJn-HR-3if.title" = "首页";
+
+/* Class = "IBUINavigationItem"; title = "确认订单信息"; ObjectID = "GaK-OA-2kw"; */
+"GaK-OA-2kw.title" = "确认订单信息";
+
+/* Class = "IBUIButton"; normalTitle = "登陆"; ObjectID = "GhB-4W-AvI"; */
+"GhB-4W-AvI.normalTitle" = "登陆";
+
+/* Class = "IBUILabel"; text = "10人已领取"; ObjectID = "Ha4-J8-ycL"; */
+"Ha4-J8-ycL.text" = "10人已领取";
+
+/* Class = "IBUIButton"; normalTitle = "养生专家特权"; ObjectID = "IH5-Jr-aPg"; */
+"IH5-Jr-aPg.normalTitle" = "养生专家特权";
+
+/* Class = "IBUITextView"; text = "2.使用手机号注册免费。"; ObjectID = "IIb-L3-wX5"; */
+"IIb-L3-wX5.text" = "2.使用手机号注册免费。";
+
+/* Class = "IBUITextField"; placeholder = "   请发送验证码"; ObjectID = "Iqn-HK-DTl"; */
+"Iqn-HK-DTl.placeholder" = "   请发送验证码";
+
+/* Class = "IBUILabel"; text = "同意"; ObjectID = "JYI-i3-aud"; */
+"JYI-i3-aud.text" = "同意";
+
+/* Class = "IBUILabel"; text = "领取电话:"; ObjectID = "K4a-e1-Sae"; */
+"K4a-e1-Sae.text" = "领取电话:";
+
+/* Class = "IBUIButton"; normalTitle = "快速注册"; ObjectID = "KSd-t4-mB3"; */
+"KSd-t4-mB3.normalTitle" = "快速注册";
+
+/* Class = "IBUITextField"; placeholder = "13120216317"; ObjectID = "L9g-0K-u33"; */
+"L9g-0K-u33.placeholder" = "13120216317";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "LCa-No-daV"; */
+"LCa-No-daV.text" = "Label";
+
+/* Class = "IBUILabel"; text = "【提示】"; ObjectID = "MYX-yX-b3B"; */
+"MYX-yX-b3B.text" = "【提示】";
+
+/* Class = "IBUIButton"; normalTitle = "发送验证码"; ObjectID = "MqL-h0-ktY"; */
+"MqL-h0-ktY.normalTitle" = "发送验证码";
+
+/* Class = "IBUILabel"; text = "欢迎来到馨然之家"; ObjectID = "NFp-iZ-sxS"; */
+"NFp-iZ-sxS.text" = "欢迎来到馨然之家";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Ni9-yP-aPW"; */
+"Ni9-yP-aPW.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "库存"; ObjectID = "NpB-PZ-Kke"; */
+"NpB-PZ-Kke.normalTitle" = "库存";
+
+/* Class = "IBUILabel"; text = "全部店铺"; ObjectID = "ObZ-iB-y5F"; */
+"ObZ-iB-y5F.text" = "全部店铺";
+
+/* Class = "IBUIButton"; normalTitle = "注册"; ObjectID = "Pnb-4q-FJ6"; */
+"Pnb-4q-FJ6.normalTitle" = "注册";
+
+/* Class = "IBUITextField"; placeholder = "请输入密码"; ObjectID = "QDG-49-iK6"; */
+"QDG-49-iK6.placeholder" = "请输入密码";
+
+/* Class = "IBUILabel"; text = "数量:"; ObjectID = "QF7-vI-gTD"; */
+"QF7-vI-gTD.text" = "数量:";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "RZY-36-kwY"; */
+"RZY-36-kwY.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "发送密码"; ObjectID = "Rle-fh-pgg"; */
+"Rle-fh-pgg.normalTitle" = "发送密码";
+
+/* Class = "IBUITextField"; placeholder = "   请输入您的手机号码"; ObjectID = "RwI-NZ-9cC"; */
+"RwI-NZ-9cC.placeholder" = "   请输入您的手机号码";
+
+/* Class = "IBUILabel"; text = "领取信息"; ObjectID = "SPw-tD-MuL"; */
+"SPw-tD-MuL.text" = "领取信息";
+
+/* Class = "IBUIButton"; normalTitle = "立即领取"; ObjectID = "TIc-R7-Rzg"; */
+"TIc-R7-Rzg.normalTitle" = "立即领取";
+
+/* Class = "IBUILabel"; text = "活动提示:"; ObjectID = "TJ6-82-k3N"; */
+"TJ6-82-k3N.text" = "活动提示:";
+
+/* Class = "IBUIViewController"; title = "product list"; ObjectID = "TOy-Ni-1w6"; */
+"TOy-Ni-1w6.title" = "product list";
+
+/* Class = "IBUILabel"; text = "库存:1000/件"; ObjectID = "U0c-CK-cuk"; */
+"U0c-CK-cuk.text" = "库存:1000/件";
+
+/* Class = "IBUITabBarItem"; title = "首页"; ObjectID = "U5Z-uk-93R"; */
+"U5Z-uk-93R.title" = "首页";
+
+/* Class = "IBUINavigationItem"; title = "修改密码"; ObjectID = "ULY-5J-5aS"; */
+"ULY-5J-5aS.title" = "修改密码";
+
+/* Class = "IBUINavigationController"; title = "首页Navigation"; ObjectID = "UQ1-qr-uIQ"; */
+"UQ1-qr-uIQ.title" = "首页Navigation";
+
+/* Class = "IBUITextField"; placeholder = "请再次输入密码"; ObjectID = "Vfg-ah-I0m"; */
+"Vfg-ah-I0m.placeholder" = "请再次输入密码";
+
+/* Class = "IBUILabel"; text = "13120216317养生平民"; ObjectID = "Vue-NR-utg"; */
+"Vue-NR-utg.text" = "13120216317养生平民";
+
+/* Class = "IBUINavigationItem"; title = "详情"; ObjectID = "XzK-OO-5fM"; */
+"XzK-OO-5fM.title" = "详情";
+
+/* Class = "IBUIViewController"; title = "category"; ObjectID = "YgV-Iy-iaY"; */
+"YgV-Iy-iaY.title" = "category";
+
+/* Class = "IBUILabel"; text = "距离结束:"; ObjectID = "aTU-6q-JSz"; */
+"aTU-6q-JSz.text" = "距离结束:";
+
+/* Class = "IBUIButton"; normalTitle = "立即注册"; ObjectID = "cGq-Pg-AFL"; */
+"cGq-Pg-AFL.normalTitle" = "立即注册";
+
+/* Class = "IBUIButton"; normalTitle = "确认"; ObjectID = "cIN-rb-wlQ"; */
+"cIN-rb-wlQ.normalTitle" = "确认";
+
+/* Class = "IBUISegmentedControl"; ceh-tN-qto.segmentTitles[0] = "全部"; ObjectID = "ceh-tN-qto"; */
+"ceh-tN-qto.segmentTitles[0]" = "全部";
+
+/* Class = "IBUISegmentedControl"; ceh-tN-qto.segmentTitles[1] = "未领取"; ObjectID = "ceh-tN-qto"; */
+"ceh-tN-qto.segmentTitles[1]" = "未领取";
+
+/* Class = "IBUISegmentedControl"; ceh-tN-qto.segmentTitles[2] = "已领取"; ObjectID = "ceh-tN-qto"; */
+"ceh-tN-qto.segmentTitles[2]" = "已领取";
+
+/* Class = "IBUILabel"; text = "Label title"; ObjectID = "ctq-6Y-VVo"; */
+"ctq-6Y-VVo.text" = "Label title";
+
+/* Class = "IBUITabBarItem"; title = "分类"; ObjectID = "cwT-5Y-jEe"; */
+"cwT-5Y-jEe.title" = "分类";
+
+/* Class = "IBUINavigationItem"; title = "我的馨然之家"; ObjectID = "czH-n6-EO6"; */
+"czH-n6-EO6.title" = "我的馨然之家";
+
+/* Class = "IBUITextView"; text = "普通注册请填写正确的手机号码，以便于您忘记密码时，安全找回密码。"; ObjectID = "d8d-Li-pVW"; */
+"d8d-Li-pVW.text" = "普通注册请填写正确的手机号码，以便于您忘记密码时，安全找回密码。";
+
+/* Class = "IBUILabel"; text = "抢购活动参与资格。"; ObjectID = "dai-MK-lnJ"; */
+"dai-MK-lnJ.text" = "抢购活动参与资格。";
+
+/* Class = "IBUILabel"; text = "LabelDetail"; ObjectID = "e8G-eb-awU"; */
+"e8G-eb-awU.text" = "LabelDetail";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "eIf-xP-XeE"; */
+"eIf-xP-XeE.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "分类"; ObjectID = "eVo-u0-aCo"; */
+"eVo-u0-aCo.title" = "分类";
+
+/* Class = "IBUITabBarItem"; title = "我的"; ObjectID = "eb1-wQ-BkG"; */
+"eb1-wQ-BkG.title" = "我的";
+
+/* Class = "IBUILabel"; text = "欢迎来到馨然之家"; ObjectID = "ec3-ve-tPR"; */
+"ec3-ve-tPR.text" = "欢迎来到馨然之家";
+
+/* Class = "IBUILabel"; text = "原价"; ObjectID = "ecj-3x-IDa"; */
+"ecj-3x-IDa.text" = "原价";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "eh2-mV-kyS"; */
+"eh2-mV-kyS.text" = "Label";
+
+/* Class = "IBUILabel"; text = "领取地址:"; ObjectID = "fIZ-Wa-GmD"; */
+"fIZ-Wa-GmD.text" = "领取地址:";
+
+/* Class = "IBUIButton"; normalTitle = "忘记密码"; ObjectID = "ff9-UG-kWT"; */
+"ff9-UG-kWT.normalTitle" = "忘记密码";
+
+/* Class = "IBUIViewController"; title = "me"; ObjectID = "g0X-bp-YJA"; */
+"g0X-bp-YJA.title" = "me";
+
+/* Class = "IBUILabel"; text = "同意"; ObjectID = "gL1-eL-rAj"; */
+"gL1-eL-rAj.text" = "同意";
+
+/* Class = "IBUINavigationItem"; title = "custom"; ObjectID = "gOO-Fd-d60"; */
+"gOO-Fd-d60.title" = "custom";
+
+/* Class = "IBUIButton"; normalTitle = "我的特权"; ObjectID = "iRt-rh-HaD"; */
+"iRt-rh-HaD.normalTitle" = "我的特权";
+
+/* Class = "IBUITextField"; placeholder = "请输入手机号码     "; ObjectID = "jWl-t8-oBC"; */
+"jWl-t8-oBC.placeholder" = "请输入手机号码     ";
+
+/* Class = "IBUITextView"; text = "1.输入手机号，点击“获取密码后”，系统会自动发送一条默认密码短信到您手机;              "; ObjectID = "kmU-U4-BZC"; */
+"kmU-U4-BZC.text" = "1.输入手机号，点击“获取密码后”，系统会自动发送一条默认密码短信到您手机;              ";
+
+/* Class = "IBUILabel"; text = "10件"; ObjectID = "ksc-j1-kbS"; */
+"ksc-j1-kbS.text" = "10件";
+
+/* Class = "IBUITextField"; placeholder = "再次输入密码"; ObjectID = "lc0-Fj-qJW"; */
+"lc0-Fj-qJW.placeholder" = "再次输入密码";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "mEn-Sa-Obb"; */
+"mEn-Sa-Obb.text" = "Label";
+
+/* Class = "IBUILabel"; text = "库存:"; ObjectID = "mcO-Dq-4JQ"; */
+"mcO-Dq-4JQ.text" = "库存:";
+
+/* Class = "IBUILabel"; text = "当前门店:"; ObjectID = "mv5-1M-oj8"; */
+"mv5-1M-oj8.text" = "当前门店:";
+
+/* Class = "IBUIButton"; normalTitle = "立即注册"; ObjectID = "n6u-pH-sOn"; */
+"n6u-pH-sOn.normalTitle" = "立即注册";
+
+/* Class = "IBUIButton"; normalTitle = "注册密码"; ObjectID = "nIH-6x-Ve0"; */
+"nIH-6x-Ve0.normalTitle" = "注册密码";
+
+/* Class = "IBUIButton"; normalTitle = "快速注册"; ObjectID = "nL1-iI-RPP"; */
+"nL1-iI-RPP.normalTitle" = "快速注册";
+
+/* Class = "IBUITextField"; placeholder = "请输入手机号码"; ObjectID = "nLG-XK-VCH"; */
+"nLG-XK-VCH.placeholder" = "请输入手机号码";
+
+/* Class = "IBUILabel"; text = "抢购价:"; ObjectID = "oJs-F2-KO6"; */
+"oJs-F2-KO6.text" = "抢购价:";
+
+/* Class = "IBUINavigationItem"; title = "快速注册"; ObjectID = "p0w-A3-BYx"; */
+"p0w-A3-BYx.title" = "快速注册";
+
+/* Class = "IBUIViewController"; title = "more"; ObjectID = "pDe-Yr-WJY"; */
+"pDe-Yr-WJY.title" = "more";
+
+/* Class = "IBUITextField"; placeholder = "请输入密码"; ObjectID = "pba-hS-pNY"; */
+"pba-hS-pNY.placeholder" = "请输入密码";
+
+/* Class = "IBUIButton"; normalTitle = "请选择门店"; ObjectID = "pgx-xE-EIo"; */
+"pgx-xE-EIo.normalTitle" = "请选择门店";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "pxU-NZ-mKo"; */
+"pxU-NZ-mKo.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "确认"; ObjectID = "r45-Op-DS6"; */
+"r45-Op-DS6.normalTitle" = "确认";
+
+/* Class = "IBUINavigationController"; title = "分类Navigation"; ObjectID = "rfX-CS-ClS"; */
+"rfX-CS-ClS.title" = "分类Navigation";
+
+/* Class = "IBUIButton"; normalTitle = "去登录"; ObjectID = "rzR-UT-Xlo"; */
+"rzR-UT-Xlo.normalTitle" = "去登录";
+
+/* Class = "IBUILabel"; text = "领取人:"; ObjectID = "s9h-Qp-A8t"; */
+"s9h-Qp-A8t.text" = "领取人:";
+
+/* Class = "IBUILabel"; text = "活动价"; ObjectID = "tLQ-vN-VS6"; */
+"tLQ-vN-VS6.text" = "活动价";
+
+/* Class = "IBUILabel"; text = "完善用户基本资料，可升级养生专家"; ObjectID = "tuE-x2-tz5"; */
+"tuE-x2-tz5.text" = "完善用户基本资料，可升级养生专家";
+
+/* Class = "IBUITextField"; placeholder = "请输入密码"; ObjectID = "uvr-NT-VfS"; */
+"uvr-NT-VfS.placeholder" = "请输入密码";
+
+/* Class = "IBUITextField"; placeholder = "输入手机号码"; ObjectID = "uxU-mi-ihs"; */
+"uxU-mi-ihs.placeholder" = "输入手机号码";
+
+/* Class = "IBUIViewController"; title = "选择店铺"; ObjectID = "v81-2h-OiX"; */
+"v81-2h-OiX.title" = "选择店铺";
+
+/* Class = "IBUIButton"; normalTitle = "去登录"; ObjectID = "vBl-7U-W1S"; */
+"vBl-7U-W1S.normalTitle" = "去登录";
+
+/* Class = "IBUIButton"; normalTitle = "价格"; ObjectID = "vMD-eQ-9eN"; */
+"vMD-eQ-9eN.normalTitle" = "价格";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "w3k-KJ-a3z"; */
+"w3k-KJ-a3z.text" = "Label";
+
+/* Class = "IBUINavigationController"; title = "我的Navigation"; ObjectID = "w4a-J6-len"; */
+"w4a-J6-len.title" = "我的Navigation";
+
+/* Class = "IBUIViewController"; title = "confirmorder"; ObjectID = "y4V-ib-bZv"; */
+"y4V-ib-bZv.title" = "confirmorder";
+
+/* Class = "IBUILabel"; text = "LabelTitle"; ObjectID = "yDp-zT-nGj"; */
+"yDp-zT-nGj.text" = "LabelTitle";
+
+/* Class = "IBUIButton"; normalTitle = "馨然之家服务协议"; ObjectID = "zmv-66-YoZ"; */
+"zmv-66-YoZ.normalTitle" = "馨然之家服务协议";

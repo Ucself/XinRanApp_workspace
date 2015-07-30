@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6250" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6244"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="secondKillCell" rowHeight="169" id="Lwu-B1-dxd" customClass="SecondKillTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="474" height="169"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Lwu-B1-dxd" id="Qgn-Te-fHp">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_secondkill" translatesAutoresizingMaskIntoConstraints="NO" id="lSX-fF-zq8">
+                        <rect key="frame" x="10" y="10" width="70" height="22"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="70" id="f2p-tO-yyY"/>
+                            <constraint firstAttribute="height" constant="22" id="y06-S5-CNw"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="距开始" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KWL-a1-gJY" userLabel="距开始还剩">
+                        <rect key="frame" x="226" y="12" width="85" height="17"/>
+                        <accessibility key="accessibilityConfiguration" label="距开始还剩"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="85" id="5Gx-nm-zj5"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lmh-nW-2fZ" customClass="HomeTimerView">
+                        <rect key="frame" x="314" y="10" width="150" height="21"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="1Wl-a8-ZOn"/>
+                            <constraint firstAttribute="width" constant="150" id="873-n5-7rU"/>
+                        </constraints>
+                    </view>
+                    <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lvM-AL-veO">
+                        <rect key="frame" x="0.0" y="42" width="474" height="118"/>
+                    </scrollView>
+                </subviews>
+                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="lmh-nW-2fZ" secondAttribute="trailing" constant="10" id="09K-Di-g23"/>
+                    <constraint firstItem="lSX-fF-zq8" firstAttribute="leading" secondItem="Qgn-Te-fHp" secondAttribute="leading" constant="10" id="2Eo-eE-9j2"/>
+                    <constraint firstItem="lvM-AL-veO" firstAttribute="leading" secondItem="Qgn-Te-fHp" secondAttribute="leading" id="Bhn-AE-mkl"/>
+                    <constraint firstItem="lmh-nW-2fZ" firstAttribute="top" secondItem="Qgn-Te-fHp" secondAttribute="top" constant="10" id="IYT-KG-wUN"/>
+                    <constraint firstItem="lmh-nW-2fZ" firstAttribute="centerY" secondItem="KWL-a1-gJY" secondAttribute="centerY" id="L2m-Ze-6n1"/>
+                    <constraint firstAttribute="trailing" secondItem="lvM-AL-veO" secondAttribute="trailing" id="Ov7-kX-A5i"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="lvM-AL-veO" secondAttribute="bottom" id="UBN-dq-H7R"/>
+                    <constraint firstItem="lvM-AL-veO" firstAttribute="top" secondItem="Qgn-Te-fHp" secondAttribute="topMargin" constant="10" id="epu-kU-U95"/>
+                    <constraint firstItem="lmh-nW-2fZ" firstAttribute="leading" secondItem="KWL-a1-gJY" secondAttribute="trailing" constant="3" id="h48-CK-be9"/>
+                    <constraint firstItem="lSX-fF-zq8" firstAttribute="bottom" secondItem="lvM-AL-veO" secondAttribute="top" constant="-10" id="pWm-lg-fcd"/>
+                    <constraint firstItem="lSX-fF-zq8" firstAttribute="top" secondItem="Qgn-Te-fHp" secondAttribute="top" constant="10" id="rwa-a0-GK7"/>
+                </constraints>
+                <variation key="default">
+                    <mask key="constraints">
+                        <exclude reference="epu-kU-U95"/>
+                    </mask>
+                </variation>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <connections>
+                <outlet property="killScrollView" destination="lvM-AL-veO" id="Lvh-FE-FUU"/>
+                <outlet property="killTimerView" destination="lmh-nW-2fZ" id="Eef-tC-trf"/>
+                <outlet property="labelStatus" destination="KWL-a1-gJY" id="UCB-I9-svE"/>
+            </connections>
+            <point key="canvasLocation" x="158" y="459.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="icon_secondkill" width="64" height="19"/>
+    </resources>
+</document>

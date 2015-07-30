@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=0.1, maximum-scale=2.0,user-scalable=yes">
+    <title>移动端图片延迟加载</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .page {
+            margin: 0 auto;
+        }
+        ul {
+            list-style-type: none;
+        }
+        li {
+            margin: 0px auto;
+            text-align: center;
+        }
+        li img {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <ul id="mainId">
+        <!--
+            <li>
+                <img class="lazy-img" src="loading.gif" _src="http://stern-github.qiniudn.com/mlazyload_1.jpg">
+            </li>
+         -->
+        </ul>
+    </div>
+    <script src="mlazyload.min.js"></script>
+<!--    <script src="test.js"></script>-->
+    <script  language="javascript">
+        //添加图片数据
+        function addImageInfor(imgUrl){
+            //添加 img
+            var imgAdd = document.createElement("img");
+            //设置 img 属性，如 id
+            imgAdd.setAttribute("class", "lazy-img");
+            //设置 img 图片地址
+            imgAdd.src = "good_defaut_img.png";
+            //设置自定义属性
+            imgAdd.setAttribute("_src", imgUrl);
+            //定义li节点
+            var liAdd = document.createElement("li");
+            //添加到li
+            liAdd.appendChild(imgAdd);
+            //添加到节点
+            document.getElementById("mainId").appendChild(liAdd);
+        }
+        //addImageInfor("http://www.xinran.com/media/upload/shops/shop_1410311116441001000002/goods_1411211544281001001318/20150204112329_94.jpg");
+        //懒加载初始化
+        //LazyLoad.init();
+    </script>
+</body>
+</html>

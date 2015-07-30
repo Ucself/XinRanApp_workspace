@@ -1,0 +1,16 @@
+//
+//  UIViewHeader.h
+//  XRUIView
+//
+//  Created by libj on 15/3/29.
+//  Copyright (c) 2015年 Framework. All rights reserved.
+//
+
+#ifndef XRUIView_UIViewHeader_h
+#define XRUIView_UIViewHeader_h
+
+#import <XRCommon/Common.h>
+
+//#define uiViewRootBundle  [NSBundle bundleWithURL:[[NSBundle mainBundle] URLForResource:@"XRUIViewBundle" withExtension:@"bundle"]];
+
+#endif

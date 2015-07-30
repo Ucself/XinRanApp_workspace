@@ -1,0 +1,14 @@
+//
+//  ComHeader.h
+//  Common
+//
+//  Created by tianbo on 15-3-24.
+//  Copyright (c) 2015年 tianbo. All rights reserved.
+//
+
+#ifndef Common_ComHeader_h
+#define Common_ComHeader_h
+
+#import "Common.h"
+
+#endif

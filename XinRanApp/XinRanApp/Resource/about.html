@@ -1,0 +1,45 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="charset=UTF-8" />
+    <style type="text/css">
+    html, body, dl { margin: 0; padding: 0; }
+    body { font-size: 13px; font-family: "Lucida Grande", sans-serif; background-color: #F0F0F0}
+    pre { font-family: "Lucida Grande", sans-serif; }
+    #container { padding: 1px 10px; }
+    pre { word-wrap: break-word; }
+    p { text-indent: 2em; }
+    dd { margin-left: 2em; padding-left: 0; margin-bottom: 1em; }
+    </style>
+</head>
+<body>
+<div id="container">
+<style>
+    .img-box { text-align:center; padding:20px 0; }
+    .img-box img{ width:60%; height:auto; border:0px;}
+</style>
+<div class="img-box">
+    <img src="icon_aboutlogo.png"  />
+</div>
+
+<div style="text-align:center"><h>当前版本:<label id="lblVersion"></label></h></div>
+<div style="text-align:center"><h>技术支持:德善信达</h></div>
+<p>“馨然之家”健康平台，致力于满足用户各种健康、养老需求。建立完善的全方位服务网络，快速、高效的辐射至全国。平台内具有多元的新型服务和新型产业。其中囊括了医疗保健、居家生活、社区服务、智能家居、养老地产、疗养基地以及健康管理。整个服务细化到社区化的家庭医生服务，日常养生、保健品消费等等。为用户提供更加便捷的服务，满足用户的各种需求。</p>
+
+<p>以用户需求为核心，启用O2O模式，整合全国线下优势资源，高效的服务于广大养生保健需求者，打造一个综合型健康服务平台。</p>
+
+
+</div>
+<script type="text/javascript">
+	function setVersion(msg){
+			var set = document.getElementById("lblVersion");
+			if(msg == null || msg == ""){
+				//set.innerText = "v0.1.1";
+				return 1;
+				}
+			set.innerText = msg;
+            return 1;
+		};
+	//setVersion("v0.1.543534");
+</script>
+</body>
+</html>

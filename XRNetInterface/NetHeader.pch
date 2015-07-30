@@ -1,0 +1,15 @@
+//
+//  Header.h
+//  NetInterface
+//
+//  Created by tianbo on 15-3-24.
+//  Copyright (c) 2015年 tianbo. All rights reserved.
+//
+
+#ifndef NetInterface_Header_h
+#define NetInterface_Header_h
+
+#import <XRCommon/Common.h>
+
+
+#endif
